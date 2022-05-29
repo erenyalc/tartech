@@ -1,0 +1,14 @@
+streamlit
+numpy
+pandas
+matplotlib
+keras
+tensorflow
+fastapi
+os
+sys
+PIL
+turtle
+pathlib
+re
+base64
